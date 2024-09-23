@@ -1,3 +1,6 @@
+## Required software 
+1. https://github.com/Pseudomoaner/Defector, developed by Oliver J. Meacock and Amin Doostmohammadi. A part of it is used here, and listed in the folder Defector-master.
+
 ## 1. Detecting the  ridge bifurcation and the end in a pattern. 
 The left image shows the fingerprint, with the marked edge and the bifurcation. The right image is the output image, showing the minutiae. 
 ![Image_1](https://github.com/user-attachments/assets/8430d6a5-646b-4ae3-a658-132fba0be03a)
