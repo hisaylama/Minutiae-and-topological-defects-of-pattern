@@ -1,4 +1,5 @@
-1. 
+## 1. Detecting the  ridge bifurcation and the end in a pattern. 
+Left image shows the representation on the finger print and right image is the result obtained after running the code
 ![Image_1](https://github.com/user-attachments/assets/8430d6a5-646b-4ae3-a658-132fba0be03a)
 
 2.
