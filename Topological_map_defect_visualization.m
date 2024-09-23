@@ -59,7 +59,7 @@ saveas(gcf, "Contour_overlayed_minutiae.svg");
 
 %% Step 3: Defect Overlay on Contour Map
 % Load the defect data
-load("C:\Users\hlama\Desktop\Zain_Analysis\Topological_Defect+Detector\Defector-master\Defects.mat");
+load("C:\Users\hlama\Desktop\Zain_Analysis\Defector-master\Defects.mat");
 
 % Extract the defect information (positions and orientations)
 pos_defect_cent = posDefCents{1,1};
