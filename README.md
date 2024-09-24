@@ -14,7 +14,7 @@
    
 ### Output from this code
 1. Detecting the  ridge bifurcation and the end in a pattern. 
-The left image is the output image, showing the minutiae. 
+The left image is the output image, showing the minutiae and identifies the ridge bifurcation and ridge ends. 
 2. Images showing the topological defects (+1/2 and -1/2).
 The right image shows +1/2 and -1/2 topological defects.
 ![Image_2](https://github.com/user-attachments/assets/6e3392d6-d824-45db-b6c8-cd6a3291ac98)
