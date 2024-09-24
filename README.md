@@ -19,7 +19,7 @@ The left image is the output image, showing the minutiae and identifies the ridg
 The right image shows +1/2 and -1/2 topological defects.
 ![Image_2](https://github.com/user-attachments/assets/6e3392d6-d824-45db-b6c8-cd6a3291ac98)
 
-- The code was inspired from the work published in PNAS, 112 (41) 12639-12644
+- The code was inspired from the work published in PNAS, 112 (41) 12639-12644.
 
 ### Reference:
 1. https://github.com/Pseudomoaner/Defector, developed by Oliver J. Meacock and Amin Doostmohammadi.
