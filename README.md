@@ -12,7 +12,7 @@
    ```
 4. Run the `Topological_map_defetc_visullaization.m`. The outputs similar to that shown below will be obtained, they will be an image in `.svg` format.
    
-## Output from this code
+### Output from this code
 1. Detecting the  ridge bifurcation and the end in a pattern. 
 The left image shows the fingerprint, with the marked edge and the bifurcation. The right image is the output image, showing the minutiae. 
 ![Image_1](https://github.com/user-attachments/assets/f78ca23e-53c9-41fb-9dc0-4aafec302cdb)
