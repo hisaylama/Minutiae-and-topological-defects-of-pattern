@@ -112,8 +112,8 @@ set(gca, 'FontName', 'Times', 'FontSize', 18);
 saveas(gcf, "Contour_overlayed_topologicaldefect.svg");
 
 %% Summary of Code Sections
-% 1. **Contour Plot**: Generates a topological map based on the data file.
-% 2. **Fingerprint Minutiae Extraction**: Extracts minutiae from a binary fingerprint image
+% 1. Contour Plot: Generates a topological map based on the data file.
+% 2. Fingerprint Minutiae Extraction: Extracts minutiae from a binary fingerprint image
 %    and overlays the results onto the contour plot.
-% 3. **Topological Defect Overlay**: Visualizes topological defects (positive and negative centers)
+% 3. Topological Defect Overlay: Visualizes topological defects (positive and negative centers)
 %    with orientation vectors, overlaid on the contour plot.
