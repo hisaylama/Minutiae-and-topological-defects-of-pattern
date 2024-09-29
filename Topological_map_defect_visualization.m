@@ -24,7 +24,7 @@ saveas(gca, "contourmap.svg");
 
 %% Step 2: Fingerprint Minutiae Extraction and Overlay
 % Load fingerprint image and convert to binary
-binary_image = imbinarize(imread('C:\Users\hlama\Desktop\Zain_Analysis\Sample 3.SIG_TOPO_FRW.tiff'));
+binary_image = imbinarize(imread('C:\Users\hlama\Desktop\Sample 3.SIG_TOPO_FRW.tiff'));
 
 % Extract minutiae from the binary fingerprint image
 [thin_image, outImg] = extract_minutiae(binary_image);
@@ -59,7 +59,7 @@ saveas(gcf, "Contour_overlayed_minutiae.svg");
 
 %% Step 3: Defect Overlay on Contour Map
 % Load the defect data
-load("C:\Users\hlama\Desktop\Zain_Analysis\Defector-master\Defects.mat");
+load("C:\Users\hlama\Desktop\Defector-master\Defects.mat");
 
 % Extract the defect information (positions and orientations)
 pos_defect_cent = posDefCents{1,1};
