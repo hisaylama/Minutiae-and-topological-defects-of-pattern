@@ -8,7 +8,7 @@
    ```
    Step 3: Defect Overlay on Contour Map
    %Load the defect data
-   load("C:\Users\hlama\Desktop\Zain_Analysis\Defector-master\Defects.mat");
+   load("C:\Users\hlama\Desktop\Defector-master\Defects.mat");
    ```
 4. Run the `Topological_map_defect_visullaization.m`. The outputs similar to that shown below will be obtained, they will be an image in `.svg` format.
    
