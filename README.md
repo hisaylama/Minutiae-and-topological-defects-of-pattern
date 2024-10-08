@@ -1,7 +1,7 @@
 ## Instruction to run the code
 1. The link for the external open-source code:  
    https://github.com/Pseudomoaner/Defector, developed by Oliver J. Meacock and Amin Doostmohammadi. A part of it is used here, and listed in the folder `Defector-master`.
-2. Run the file `DefectorExample.m` after properly adding the image of interest under the variable `Root`.
+2. Run the file `Defector-master/Matlab Scripts/DefectorExample.m` after properly adding the image of interest under the variable `Root`.
 3. Save the workspace after running the  `DefectorExample.m` and save it with the name `Defects. mat`. The `Defects. mat` contains the variables with information on coordinates of +1/2 defect and -1/2 defects respectively.
    These variables are later called in the code `Topological_map_defect_visullaization.m` in a line as mentioned below.
    
